@@ -1,0 +1,2 @@
+ASMG__LATEST
+|2.5|
