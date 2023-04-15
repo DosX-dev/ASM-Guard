@@ -1,6 +1,8 @@
 # ASM Guard
 
-<a href="https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest" style="font-size: 30px;">DOWNLOAD</a>
+<div style="font-size: 30px;">
+ <a href="https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest">DOWNLOAD</a>
+</div>
 
 Features:
  * Instruction compression
