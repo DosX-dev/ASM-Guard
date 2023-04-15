@@ -1,5 +1,7 @@
 # ASM Guard
 
+<a href="https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest" style="font-size: 15px;">DOWNLOAD</a>
+
 Features:
  * Instruction compression
  * Fake import of WinAPI functions
