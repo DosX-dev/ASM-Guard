@@ -12,6 +12,7 @@
 
 ### Peculiarities:
  * Simple and convenient GUI
+ * 32-64 bit support
  * Association with .DLL, .ASMG files
  * Project and configuration system
  * Embedding in File Explorer context menu
