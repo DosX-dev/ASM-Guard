@@ -24,3 +24,4 @@ The program is written in VB NET and is still closed source. However, if the pro
 ## [DOWNLOAD](https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest)
 
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/new1.jpg)
+![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/dem.jpg)
