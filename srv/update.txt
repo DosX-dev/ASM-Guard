@@ -1,2 +1,2 @@
-LATEST=2.7 (Obfuscation added!)
-ACTUAL={1.5.5},{2.7}
+LATEST=2.7.2 [Mutation added]
+ACTUAL={1.5.5},{2.7.2}
