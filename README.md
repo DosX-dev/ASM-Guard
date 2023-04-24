@@ -9,6 +9,7 @@
  * Add junk C/C++ functions
  * Leave a hidden message (message to a hacker)
  * Fake UPX detect in Detect it easy (MZ, PE)
+ * Assembly mutation
 
 ### Peculiarities:
  * Simple and convenient GUI
