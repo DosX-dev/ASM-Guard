@@ -12,6 +12,7 @@
  * Assembly mutation
 
 ### Peculiarities:
+ * Usage for EXE and DLL
  * Simple and convenient GUI
  * 32-64 bit support
  * Association with .DLL, .ASMG files
