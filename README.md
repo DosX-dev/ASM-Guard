@@ -28,3 +28,5 @@ The program is written in VB NET and is still closed source. However, if the pro
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.8.jpg)
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.7.jpg)
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/dem.jpg)
+
+<span style="color: red;">The use of ASM Guard is at the user's own risk. The developer assumes no responsibility for any damages, losses, or harm caused by the use of this software. The user is solely responsible for ensuring that their files are adequately protected and secured. The developer shall not be held liable for any unauthorized access, hacking, or other malicious activities that may occur as a result of using this software. By using this software, the user acknowledges and agrees to these terms and conditions.</span>
