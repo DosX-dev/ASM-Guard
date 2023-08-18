@@ -1,5 +1,7 @@
 # ASM Guard
 
+# ```Attention! It is not a malicious file crypter. Do not use it to encrypt malicious code - there will be no fewer detections.```
+
 ### Features:
  * Instruction compression
  * Fake import of WinAPI functions
