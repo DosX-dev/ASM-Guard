@@ -1,2 +1,2 @@
-LATEST=2.9.1 (BUGS FIXED!)
-ACTUAL={1.5.5},{2.9.1}
+LATEST=2.9.4 (Update in honor of 2024! Some security changes and interface fixes!)
+ACTUAL={1.5.5},{2.9.4}
