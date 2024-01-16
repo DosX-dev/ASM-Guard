@@ -1,8 +1,8 @@
 # ASM Guard
 
-# ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections.```
+## ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections. Antivirus tools use advanced heuristics to search for potentially malicious patterns.```
 
-## What is?!
+## What is it?!
 ASM Guard is a packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized software loader.
 Its main purpose is to protect programs from static analysis (determining the framework/programming language or libraries used) and reading the machine code of the program through packing and mutations of the executable file. It will not stop a truly experienced reverser, but it will make it difficult to analyze it superficially or prevent an attempt to introduce malicious code.
 
