@@ -25,6 +25,10 @@
  ### Absolutely free software. No restrictions. No paid subscriptions. Enjoy! :)
 The program is written in VB NET and is still closed source. However, if the project is popular, then I will consider publishing the original source code.
 
+## Use it for C++ application?
+Use [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) by [ac3ss0r](https://github.com/ac3ss0r) for compile-time reliable obfuscation of your code before applying **ASM Guard**.
+This is a complex protection using a CPP-header file that is almost impossible to remove using unpackers or other special tools.
+
 # [DOWNLOAD](https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest)
 
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.8.jpg)
