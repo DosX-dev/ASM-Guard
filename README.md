@@ -33,13 +33,13 @@ The program is written in VB NET and is still closed source. However, if the pro
 Use [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) by [ac3ss0r](https://github.com/ac3ss0r) for compile-time reliable obfuscation of your code before applying **ASM Guard**.
 This is a complex protection using a CPP-header file that is almost impossible to remove using unpackers or other special tools.
 
-# [DOWNLOAD](https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest)
+## False-positive detections by antiviruses?
+Antivirus programs may falsely detect ASM Guard file protection as unwanted or malware. This may be due to reasons including complex security algorithms that hide the source code from machine code analyzers or PE resources during the static scanning stage. **Unfortunately, this cannot be fixed**. The only sure way to avoid this is to use a CodeSign digital signature or ask your users to add your program to exceptions
+
+# 💾 [DOWNLOAD](https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest)
 
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.8.jpg)
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/dem.jpg)
-
-## False-positive detections by antiviruses?
-Antivirus programs may falsely detect ASM Guard file protection as unwanted or malware. This may be due to reasons including complex security algorithms that hide the source code from machine code analyzers or PE resources during the static scanning stage. **Unfortunately, this cannot be fixed**. The only sure way to avoid this is to use a CodeSign digital signature or ask your users to add your program to exceptions
 
 #### DISCLAIMER
 The use of ASM Guard is at the user's own risk. The developer assumes no responsibility for any damages, losses, or harm caused by the use of this software. The user is solely responsible for ensuring that their files are adequately protected and secured. The developer shall not be held liable for any unauthorized access, hacking, or other malicious activities that may occur as a result of using this software. <b>By using this software, the user acknowledges and agrees to these terms and conditions.</b>
