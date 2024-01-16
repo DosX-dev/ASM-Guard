@@ -35,5 +35,8 @@ This is a complex protection using a CPP-header file that is almost impossible t
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.7.jpg)
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/dem.jpg)
 
+## False-positive detections by antiviruses?
+Antivirus programs may falsely detect ASM Guard file protection as unwanted or malware. This may be due to reasons including complex security algorithms that hide the source code from machine code analyzers or PE resources during the static scanning stage. **Unfortunately, this cannot be fixed**. The only sure way to avoid this is to use a CodeSign digital signature or ask your users to add your program to exceptions
+
 #### DISCLAIMER
 The use of ASM Guard is at the user's own risk. The developer assumes no responsibility for any damages, losses, or harm caused by the use of this software. The user is solely responsible for ensuring that their files are adequately protected and secured. The developer shall not be held liable for any unauthorized access, hacking, or other malicious activities that may occur as a result of using this software. <b>By using this software, the user acknowledges and agrees to these terms and conditions.</b>
