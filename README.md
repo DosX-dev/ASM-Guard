@@ -1,6 +1,6 @@
-# ASM Guard
+# 🔐 ASM Guard
 
-## ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections. Antivirus tools use advanced heuristics to search for potentially malicious patterns.```
+## ⛔️ ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections. Antivirus tools use advanced heuristics to search for potentially malicious patterns.```
 
 ## What is it?!
 ASM Guard is a packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized software loader.
@@ -26,7 +26,7 @@ Its main purpose is to protect programs from static analysis (determining the fr
  * Embedding in File Explorer context menu
  * The protector is portable and has a small size
 
- ### Absolutely free software. No restrictions. No paid subscriptions. Enjoy! :)
+ ### 💸🚫 Absolutely free software. No restrictions. No paid subscriptions. **Enjoy**! :)
 The program is written in VB NET and is still closed source. However, if the project is popular, then I will consider publishing the original source code.
 
 ## Use it for C++ application?
