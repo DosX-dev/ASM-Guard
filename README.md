@@ -39,6 +39,7 @@ Antivirus programs may falsely detect ASM Guard file protection as unwanted or m
 # 💾 [DOWNLOAD](https://github.com/DosX-dev/ASM-Guard/releases/tag/Latest)
 
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.8.jpg)
+![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/2.9.4.jpg)
 ![](https://raw.githubusercontent.com/DosX-dev/ASM-Guard/main/dem.jpg)
 
 #### DISCLAIMER
