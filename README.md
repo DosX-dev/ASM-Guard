@@ -46,3 +46,6 @@ Antivirus programs may falsely detect ASM Guard file protection as unwanted or m
 The use of ASM Guard is at the user's own risk. The developer assumes no responsibility for any damages, losses, or harm caused by the use of this software. The user is solely responsible for ensuring that their files are adequately protected and secured. The developer shall not be held liable for any unauthorized access, hacking, or other malicious activities that may occur as a result of using this software. <b>By using this software, the user acknowledges and agrees to these terms and conditions.</b>
 
 ### Developed with <3, by DosX
+
+## ❤️ Special thanks
+### 👨🏼‍💻 [https://github.com/horsicq](horsicq)
