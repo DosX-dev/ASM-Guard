@@ -47,5 +47,5 @@ The use of ASM Guard is at the user's own risk. The developer assumes no respons
 
 ### Developed with <3, by DosX
 
-## ❤️ Special thanks
-### 👨🏼‍💻 [https://github.com/horsicq](horsicq)
+### ❤️ Special thanks
+ * 👨🏼‍💻 **[https://github.com/horsicq](horsicq)**
