@@ -1,6 +1,6 @@
 # 🔐 ASM Guard
 
-## ⛔️ ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections. Antivirus tools use advanced heuristics to search for potentially malicious patterns. To crypt your malware use [https://vmpsoft.com](vmpsoft.com)```
+## ⛔️ ```Attention! It is not a malicious file cryptor. Do not use it to encrypt malicious code - there will be no fewer detections. Antivirus tools use advanced heuristics to search for potentially malicious patterns. To crypt your malware use vmpsoft.com```
 
 ## What is it?!
 ASM Guard is a packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized software loader.
