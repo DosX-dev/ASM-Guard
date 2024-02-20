@@ -30,7 +30,7 @@ Its main purpose is to protect programs from static analysis (determining the fr
 The program is written in VB NET and is still closed source. However, if the project is popular, then I will consider publishing the original source code.
 
 ## Use it for C++ application?
-Use [obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) by [ac3ss0r](https://github.com/ac3ss0r) for compile-time reliable obfuscation of your code before applying **ASM Guard**.
+Use [Obfuscate](https://github.com/adamyaxley/Obfuscate) by [adamyaxley](https://github.com/adamyaxley) for compile-time reliable obfuscation of your code before applying **ASM Guard**.
 This is a complex protection using a CPP-header file that is almost impossible to remove using unpackers or other special tools.
 
 ## False-positive detections by antiviruses?
